@@ -1,0 +1,20 @@
+
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+,squid:S1700O"Rename field "folios"(Í£·Ü
+]squid:S1075"ARefactor your code to get this URI from a customizable parameter.(ÿ«½¸ıÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼‡Ã¶ùÿÿÿÿ
+T
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ˆ©Â¸øÿÿÿÿ
+T
+squid:S106."9Replace this use of System.out or System.err by a logger.(€¢£Áÿÿÿÿÿ
+T
+squid:S106@"9Replace this use of System.out or System.err by a logger.(ˆ©Â¸øÿÿÿÿ
+T
+squid:S106C"9Replace this use of System.out or System.err by a logger.(€¢£Áÿÿÿÿÿ
+3squid:S2066G"Make this inner class static(á€Û•
+osquid:ModifiersOrderCheckP"EReorder the modifiers to comply with the Java Language Specification.(¾Ó°ôúÿÿÿÿ
+3squid:S2066["Make this inner class static(·Ïå
+jsquid:ModifiersOrderCheckc"EReorder the modifiers to comply with the Java Language Specification.(‹°èò
+Vsquid:UnusedPrivateMethod ",Remove this unused private "sendGet" method.(í½íåÿÿÿÿÿ
+bsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(ŸÊÙ

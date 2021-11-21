@@ -1,0 +1,27 @@
+
+W	java:S125‡"<This block of commented-out lines of code should be removed.(´æÙÿÿÿÿÿ
+Y
+java:S1128">Remove this unused import 'com.google.gson.stream.JsonWriter'.(ìç÷Åıÿÿÿÿ
+˜
+java:S1130!"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(òá–İıÿÿÿÿ8úÎÁ÷¯.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ûùßøÿÿÿÿ8‚ºÁ÷¯.
+?
+java:S1128")Remove this unused import 'java.net.URI'.(Ö¦¨°
+7
+java:S1220""Move this file to a named package.8ĞÊ‘Û.
+^
+java:S1128"CRemove this unused import 'org.springframework.util.MultiValueMap'.(·ÚÀŞùÿÿÿÿ
+_
+java:S1128"IRemove this unused import 'org.springframework.util.LinkedMultiValueMap'.(µÂî‹
+]	java:S125#"<This block of commented-out lines of code should be removed.(¾ªåõùÿÿÿÿ8úÎÁ÷¯.
+I
+java:S1068".Remove this unused "sftpClient" private field.(°–™Şıÿÿÿÿ
+i
+java:S1128"SRemove this unused import 'org.apache.commons.vfs2.impl.StandardFileSystemManager'.(ë³ûÁ
+R	java:S125"<This block of commented-out lines of code should be removed.(šµºÛ
+d
+java:S1128"NRemove this unused import 'org.springframework.web.util.UriComponentsBuilder'.(ßª»Ó
+V	java:S125+"<This block of commented-out lines of code should be removed.(´æÙÿÿÿÿÿ
+V	java:S125n"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ
+@
+java:S1068"*Remove this unused "client" private field.(Í¶å¶

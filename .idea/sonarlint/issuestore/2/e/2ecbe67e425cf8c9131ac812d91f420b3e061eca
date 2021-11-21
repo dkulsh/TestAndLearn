@@ -1,0 +1,10 @@
+
+V
+squid:S106."9Replace this use of System.out or System.err by a logger.(‡µ¶ò8íéÏ™”.
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8şÁæ™”.
+V
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ÊİÉ8¦ãš”.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡µ¶ò8²šÃ™”.
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ÊİÉ8÷æ·™”.

@@ -1,0 +1,48 @@
+
+U
+java:S1854":Remove this useless assignment to local variable "vovels".(¸”¯Óþÿÿÿÿ
+‘
+java:S1130"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(òá–Ýýÿÿÿÿ
+F
+java:S1481"+Remove this unused "vovels" local variable.(¸”¯Óþÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÜæÜõ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µˆœÑ
+V	java:S125""<This block of commented-out lines of code should be removed.(¥âÄðüÿÿÿÿ
+—
+java:S1186a"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦æÂÍ
+—
+java:S1186c"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£±ƒ‘
+P
+java:S1118_":Add a private constructor to hide the implicit public one.(§­ÌÊ
+Q	java:S125@"<This block of commented-out lines of code should be removed.(Ìˆ¯É
+–
+java:S1186i"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ûŸáu
+œ
+java:S1186k"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²ðŒþþÿÿÿÿ
+—
+java:S1186m"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ì‰˜ë
+P
+java:S1118g":Add a private constructor to hide the implicit public one.(ïŽîÄ
+—
+java:S1186s"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»üå¨
+œ
+java:S1186u"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£Œòýÿÿÿÿÿ
+U
+java:S1118q":Add a private constructor to hide the implicit public one.(ßÞê¸ùÿÿÿÿ
+œ
+java:S1186{"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³ÿŽµýÿÿÿÿ
+—
+java:S1186}"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™»áÉ
+U
+java:S1118y":Add a private constructor to hide the implicit public one.(¨Â¡˜ÿÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.io.BufferedInputStream'.(Š—€åûÿÿÿÿ
+?
+java:S1128")Remove this unused import 'java.io.File'.(†Ð¥Å
+J
+java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ
+R
+java:S1128
+"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔîÏ
+f	java:S114<"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(×á¾Á

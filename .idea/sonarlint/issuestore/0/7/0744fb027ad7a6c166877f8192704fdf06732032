@@ -1,0 +1,8 @@
+
+]
+java:S1854"@Remove this useless assignment to local variable "unmarshaller".(¿¥ÐÒ8öã÷ò».
+]	java:S125"<This block of commented-out lines of code should be removed.(ù¸€”þÿÿÿÿ8öã÷ò».
+X	java:S125"<This block of commented-out lines of code should be removed.(Ì¢§Ã8öã÷ò».
+N
+java:S1481"1Remove this unused "unmarshaller" local variable.(¿¥ÐÒ8öã÷ò».
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ý±©Œ8öã÷ò».

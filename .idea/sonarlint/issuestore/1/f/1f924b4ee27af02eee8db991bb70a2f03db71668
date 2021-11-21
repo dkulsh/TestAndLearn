@@ -1,0 +1,16 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã“½8›Â›Œ˜.
+_squid:S1854">Remove this useless assignment to local variable "strReverse".(ğŠ•üÿÿÿÿ8ò¬˜.
+Psquid:S1481"/Remove this unused "strReverse" local variable.(ğŠ•üÿÿÿÿ8ò¬˜.
+Xsquid:S1854"<Remove this useless assignment to local variable "strArray".(¢ÜÂÛ8áâù‹˜.
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ŸÇã8ıï³Œ˜.
+Fsquid:S00108")Either remove or fill this block of code.(ôÊÁ›8İƒª˜.
+Ksquid:S1172"*Remove this unused method parameter "str".(¶ƒÙØúÿÿÿÿ8Íšš˜.
+Psquid:EmptyStatementUsageCheck"Remove this empty statement.(öÌæúÿÿÿÿ8ÈÍ¡œ.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ı·‡‘øÿÿÿÿ8ıï³Œ˜.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûãÁùùÿÿÿÿ8ıï³Œ˜.
+^squid:S1126"BReplace this if-then-else statement by a single method invocation.(à„ÎÚ8ıï³Œ˜.
+Isquid:S1481"-Remove this unused "strArray" local variable.(¢ÜÂÛ8áâù‹˜.

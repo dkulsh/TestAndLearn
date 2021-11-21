@@ -1,0 +1,129 @@
+
+L
+java:S3740i"/Provide the parametrized type for this generic.(Àİ¿8¶€Ûğ©.
+R
+java:S3740Ç"/Provide the parametrized type for this generic.(Š¦ºŠûÿÿÿÿ8¶€Ûğ©.
+{
+java:S1192}"_Define a constant instead of duplicating this literal "application/json;charset=utf-8" 4 times.(¾íà18¶€Ûğ©.
+i
+java:S1192~"LDefine a constant instead of duplicating this literal "Content-MD5" 3 times.(œ×ÌÈ8¶€Ûğ©.
+@
+java:S1148r"#Use a logger to log this exception.(ˆáù×8¶€Ûğ©.
+A
+java:S1148ó"#Use a logger to log this exception.(½×‰è8¶€Ûğ©.
+F
+java:S1148Ú"#Use a logger to log this exception.(è÷°¤ûÿÿÿÿ8¶€Ûğ©.
+J
+java:S1604Q"(Make this anonymous inner class a lambda(Ø’Àüÿÿÿÿ8¶€Ûğ©.
+ˆ
+java:S1488Ö"jImmediately return this expression instead of assigning it to the temporary variable "encodeCardResponse".(É×Ò8¶€Ûğ©.
+m
+java:S1128"PRemove this unused import 'org.springframework.core.ParameterizedTypeReference'.(©ç8¶€Ûğ©.
+y
+java:S1128	"\Remove this unused import 'decurtis.dxp.doorlock.common.EnvironmentalPropertyConfiguration'.(€ú³Ñ8¶€Ûğ©.
+g
+java:S1128"JRemove this unused import 'decurtis.dxp.doorlock.utility.DoorLockUtility'.(éÉ²®8¶€Ûğ©.
+f
+java:S1128)"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ8¶€Ûğ©.
+C
+java:S1168="&Return an empty array instead of null.(¥¹ï8¶€Ûğ©.
+8
+java:S3626@"Remove this redundant jump.(ı­Öø8¶€Ûğ©.
+b
+java:S4830?"@Enable server certificate validation on this SSL/TLS connection.(¹„Á¦ÿÿÿÿÿ8¶€Ûğ©.
+8
+java:S3626C"Remove this redundant jump.(ı­Öø8¶€Ûğ©.
+]
+java:S4830B"@Enable server certificate validation on this SSL/TLS connection.(”Ê•¡8¶€Ûğ©.
+c
+java:S1854c"FRemove this useless assignment to local variable "encodeCardResponse".(Ó¥¾»8¶€Ûğ©.
+–
+java:S1130K"yRemove the declaration of thrown exception 'java.security.SignatureException', as it cannot be thrown from method's body.(¡¯·½8¶€Ûğ©.
+—
+java:S1130K"zRemove the declaration of thrown exception 'java.security.InvalidKeyException', as it cannot be thrown from method's body.(¡¯·½8¶€Ûğ©.
+°
+java:S1130K"’Remove the declaration of thrown exception 'decurtis.dxp.common.logging.aop.ApplicationLevelException', as it cannot be thrown from method's body.(¡¯·½8¶€Ûğ©.
+\
+java:S5527S"?Enable server hostname verification on this SSL/TLS connection.(§¼Éç8¶€Ûğ©.
+[	java:S106„"9Replace this use of System.out or System.err by a logger.(ˆ©Â¸øÿÿÿÿ8¶€Ûğ©.
+[	java:S106—"9Replace this use of System.out or System.err by a logger.(ˆ©Â¸øÿÿÿÿ8¶€Ûğ©.
+¶
+java:S1130"’Remove the declaration of thrown exception 'decurtis.dxp.common.logging.aop.ApplicationLevelException', as it cannot be thrown from method's body.(Í§‚Óûÿÿÿÿ8¶€Ûğ©.
+¶
+java:S1130¸"’Remove the declaration of thrown exception 'decurtis.dxp.common.logging.aop.ApplicationLevelException', as it cannot be thrown from method's body.(è˜ †úÿÿÿÿ8¶€Ûğ©.
+—
+java:S1130Ö"yRemove the declaration of thrown exception 'java.security.SignatureException', as it cannot be thrown from method's body.(˜Ï³ß8¶€Ûğ©.
+›
+java:S1130Ö"}Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException', as it cannot be thrown from method's body.(˜Ï³ß8¶€Ûğ©.
+T
+java:S1481c"7Remove this unused "encodeCardResponse" local variable.(Ó¥¾»8¶€Ûğ©.
+]	java:S125Y"<This block of commented-out lines of code should be removed.(ÒñêÖıÿÿÿÿ8¶€Ûğ©.
+X	java:S125\"<This block of commented-out lines of code should be removed.(ø¨®æ8¶€Ûğ©.
+^	java:S125Œ"<This block of commented-out lines of code should be removed.(ƒÂ¯Òùÿÿÿÿ8¶€Ûğ©.
+^	java:S125"<This block of commented-out lines of code should be removed.(£ˆ»“ùÿÿÿÿ8¶€Ûğ©.
+^	java:S125‘"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8¶€Ûğ©.
+^	java:S125“"<This block of commented-out lines of code should be removed.(ó¯“ùıÿÿÿÿ8¶€Ûğ©.
+^	java:S125•"<This block of commented-out lines of code should be removed.(¦“üÿÿÿÿ8¶€Ûğ©.
+^	java:S125˜"<This block of commented-out lines of code should be removed.(İ§Â÷øÿÿÿÿ8¶€Ûğ©.
+^	java:S125š"<This block of commented-out lines of code should be removed.(è¢Â‘ıÿÿÿÿ8¶€Ûğ©.
+Y	java:S125œ"<This block of commented-out lines of code should be removed.(ËÃó¥8¶€Ûğ©.
+Y	java:S125¡"<This block of commented-out lines of code should be removed.(ñ±™Œ8¶€Ûğ©.
+Y	java:S125¦"<This block of commented-out lines of code should be removed.(Á¢çï8¶€Ûğ©.
+Y	java:S125©"<This block of commented-out lines of code should be removed.(˜İœº8¶€Ûğ©.
+^	java:S125«"<This block of commented-out lines of code should be removed.(Ú‹‡˜úÿÿÿÿ8¶€Ûğ©.
+^	java:S125°"<This block of commented-out lines of code should be removed.(Éë‰’øÿÿÿÿ8¶€Ûğ©.
+^	java:S125´"<This block of commented-out lines of code should be removed.(È°øÿÿÿÿ8¶€Ûğ©.
+Y	java:S125·"<This block of commented-out lines of code should be removed.(ÖÍÆ¥8¶€Ûğ©.
+^	java:S125é"<This block of commented-out lines of code should be removed.(¤‘¯Èûÿÿÿÿ8¶€Ûğ©.
+Y	java:S125í"<This block of commented-out lines of code should be removed.(’¿á°8¶€Ûğ©.
+Y	java:S125ğ"<This block of commented-out lines of code should be removed.(¼ÌŞÑ8¶€Ûğ©.
+^	java:S125ó"<This block of commented-out lines of code should be removed.(ÇÃ—îıÿÿÿÿ8¶€Ûğ©.
+^	java:S125ö"<This block of commented-out lines of code should be removed.(»ª€Âûÿÿÿÿ8¶€Ûğ©.
+^	java:S125ù"<This block of commented-out lines of code should be removed.(¥Ä×Ğøÿÿÿÿ8¶€Ûğ©.
+Y	java:S125ü"<This block of commented-out lines of code should be removed.(Äİ®«8¶€Ûğ©.
+Y	java:S125ÿ"<This block of commented-out lines of code should be removed.(şÖ³ø8¶€Ûğ©.
+Y	java:S125‚"<This block of commented-out lines of code should be removed.(´Á§8¶€Ûğ©.
+Y	java:S125…"<This block of commented-out lines of code should be removed.(¯üÅ¸8¶€Ûğ©.
+^	java:S125ˆ"<This block of commented-out lines of code should be removed.(“Ìåûÿÿÿÿ8¶€Ûğ©.
+^	java:S125‹"<This block of commented-out lines of code should be removed.(á¶ô¸ûÿÿÿÿ8¶€Ûğ©.
+X	java:S125"<This block of commented-out lines of code should be removed.(Üéó 8¶€Ûğ©.
+^	java:S125‘"<This block of commented-out lines of code should be removed.(˜‡œ°şÿÿÿÿ8¶€Ûğ©.
+^	java:S125”"<This block of commented-out lines of code should be removed.(Ù¼…¤úÿÿÿÿ8¶€Ûğ©.
+X	java:S125—"<This block of commented-out lines of code should be removed.(Û¹8¶€Ûğ©.
+Y	java:S125š"<This block of commented-out lines of code should be removed.(êŞ‹»8¶€Ûğ©.
+^	java:S125"<This block of commented-out lines of code should be removed.(¼ğÃ˜úÿÿÿÿ8¶€Ûğ©.
+^	java:S125 "<This block of commented-out lines of code should be removed.(·‹²½úÿÿÿÿ8¶€Ûğ©.
+^	java:S125¤"<This block of commented-out lines of code should be removed.(…´¯şÿÿÿÿ8¶€Ûğ©.
+^	java:S125¨"<This block of commented-out lines of code should be removed.(Ö¤ÉÀşÿÿÿÿ8¶€Ûğ©.
+^	java:S125¬"<This block of commented-out lines of code should be removed.(‰½µîıÿÿÿÿ8¶€Ûğ©.
+Y	java:S125°"<This block of commented-out lines of code should be removed.( ÄÒ²8¶€Ûğ©.
+^	java:S125´"<This block of commented-out lines of code should be removed.(©ã­‹ıÿÿÿÿ8¶€Ûğ©.
+Y	java:S125¸"<This block of commented-out lines of code should be removed.(á´ö8¶€Ûğ©.
+^	java:S125¼"<This block of commented-out lines of code should be removed.(’¬¾§ùÿÿÿÿ8¶€Ûğ©.
+Y	java:S125À"<This block of commented-out lines of code should be removed.(¤ÛŒÀ8¶€Ûğ©.
+Y	java:S125Ä"<This block of commented-out lines of code should be removed.(Öé¿‹8¶€Ûğ©.
+Y	java:S125È"<This block of commented-out lines of code should be removed.(¥÷‡Å8¶€Ûğ©.
+Y	java:S125Ì"<This block of commented-out lines of code should be removed.(æ¸Œ€8¶€Ûğ©.
+^	java:S125Ğ"<This block of commented-out lines of code should be removed.(óÛØÂùÿÿÿÿ8¶€Ûğ©.
+Y	java:S125Ô"<This block of commented-out lines of code should be removed.( œ˜­8¶€Ûğ©.
+^	java:S125Ø"<This block of commented-out lines of code should be removed.(’Šçøùÿÿÿÿ8¶€Ûğ©.
+X	java:S125Ü"<This block of commented-out lines of code should be removed.(á–µl8¶€Ûğ©.
+^	java:S125à"<This block of commented-out lines of code should be removed.(Ÿçˆ«üÿÿÿÿ8¶€Ûğ©.
+^	java:S125ä"<This block of commented-out lines of code should be removed.(Ñá†×ûÿÿÿÿ8¶€Ûğ©.
+^	java:S125è"<This block of commented-out lines of code should be removed.(¹¯³½üÿÿÿÿ8¶€Ûğ©.
+^	java:S125ì"<This block of commented-out lines of code should be removed.(âÚŞùÿÿÿÿ8¶€Ûğ©.
+Y	java:S125ğ"<This block of commented-out lines of code should be removed.(„ùÀ÷8¶€Ûğ©.
+^	java:S125ô"<This block of commented-out lines of code should be removed.(í”¤Šøÿÿÿÿ8¶€Ûğ©.
+Y	java:S125ø"<This block of commented-out lines of code should be removed.(ò«Ò8¶€Ûğ©.
+Y	java:S125ü"<This block of commented-out lines of code should be removed.(µ²×¹8¶€Ûğ©.
+^	java:S125€"<This block of commented-out lines of code should be removed.(­²ñ±üÿÿÿÿ8¶€Ûğ©.
+^	java:S125„"<This block of commented-out lines of code should be removed.(Æ×şÿÿÿÿ8¶€Ûğ©.
+^	java:S125ˆ"<This block of commented-out lines of code should be removed.(“€§Øúÿÿÿÿ8¶€Ûğ©.
+^	java:S125Œ"<This block of commented-out lines of code should be removed.(°ğß’ûÿÿÿÿ8¶€Ûğ©.
+^	java:S125"<This block of commented-out lines of code should be removed.(¡æäØûÿÿÿÿ8¶€Ûğ©.
+^	java:S125”"<This block of commented-out lines of code should be removed.(êÁãøÿÿÿÿ8¶€Ûğ©.
+^	java:S125˜"<This block of commented-out lines of code should be removed.(¥Îªûÿÿÿÿ8¶€Ûğ©.
+Y	java:S125œ"<This block of commented-out lines of code should be removed.(¼ØÄ8¶€Ûğ©.
+Y	java:S125 "<This block of commented-out lines of code should be removed.(£Í¿è8¶€Ûğ©.
+X	java:S125¤"<This block of commented-out lines of code should be removed.(ş†ÕN8¶€Ûğ©.
+^	java:S125¨"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8¶€Ûğ©.

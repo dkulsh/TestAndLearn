@@ -1,0 +1,168 @@
+{
+  "ci": "4f18a667-4463-46d3-905e-96fda821b77c",
+  "source": "Couchbase",
+  "ts": "2020-03-08T21:02:17",
+  "n": "reservationguest:updated",
+  "cn": "guest-service",
+  "tg": "guest service",
+  "plt": "json",
+  "pl": {
+    "modifiedByUser": "Couchbase",
+    "modificationTime": "2020-03-08T21:02:17",
+    "reservationGuestId": "a4312806-e52c-414e-acfd-8ee3607d39fb",
+    "reservationId": "2801e42f-a563-482e-aa40-7f2e33179184",
+    "guestId": "7054891d-d4da-41f7-af04-4e50bc78a1ee",
+    "isVIP": false,
+    "isPrimary": true,
+    "embarkDate": "2020-03-07",
+    "debarkDate": "2020-03-11",
+    "stateroom": "9334Z",
+    "isInsuranceDeclined": true,
+    "embarkPortCode": "MIA",
+    "debarkPortCode": "MIA",
+    "isRoutedTo": false,
+    "isBackToBack": false,
+    "guestTypeCode": "OTHER",
+    "reservationStatusCode": "RS",
+    "selectedAddressId": "a18ba7f8-0ff4-463c-a31f-f0ba7d17a537",
+    "pmsId": "1000000014826",
+    "prePostCruises": [],
+    "guestDocuments": [
+      {
+        "modifiedByUser": "Couchbase",
+        "modificationTime": "2020-03-08T21:02:17",
+        "guestDocumentId": "a6102c69-d6a9-4fb3-9326-8997b088be26",
+        "reservationGuestId": "a4312806-e52c-414e-acfd-8ee3607d39fb",
+        "documentType": "P",
+        "documentId": "3dc6d848-bed1-4472-8df2-428715ce26bf",
+        "isDeleted": false
+      },
+      {
+        "modifiedByUser": "Couchbase",
+        "modificationTime": "2020-03-08T21:02:17",
+        "guestDocumentId": "cec05d7c-6b62-44d5-9f1f-499fae0ee1f2",
+        "reservationGuestId": "a4312806-e52c-414e-acfd-8ee3607d39fb",
+        "documentType": "V",
+        "documentId": "0632b9dd-ba74-4d1d-98b8-e680048d63a6",
+        "isDeleted": false
+      },
+      {
+        "modifiedByUser": "Couchbase",
+        "modificationTime": "2020-03-08T21:02:17",
+        "guestDocumentId": "86cd99e9-6fc1-474d-9b6d-cfa4b61b308c",
+        "reservationGuestId": "a4312806-e52c-414e-acfd-8ee3607d39fb",
+        "documentType": "Security Photo",
+        "documentId": "65273ade-b6fd-445c-8d16-db7793bf2704",
+        "isDeleted": false
+      }
+    ],
+    "checkinDetail": {
+      "modifiedByUser": "Couchbase",
+      "modificationTime": "2020-03-08T21:02:17",
+      "guestCheckinDetailId": "6d16f5da-7ca4-4e2d-955e-4731a1537845",
+      "identificationId": "3dc6d848-bed1-4472-8df2-428715ce26bf",
+      "additionalIdentificationId": "8c80dec9-0e98-4508-bc2d-621137d6bc20",
+      "isIdVerified": true,
+      "isDocumentsRetained": false,
+      "isPhotoVerified": true,
+      "isCashAgreementGiven": false,
+      "isCruiseContractSigned": false,
+      "isManualDocumentsVerified": false,
+      "isGuestBookletNeeded": false,
+      "isLegalGuardianTravelling": false,
+      "isChildRegistrationOptOut": false,
+      "isPaymentPolicyAccepted": false,
+      "isCruiseContractSignedAtPartyLevel": false,
+      "additionalIdentificationDocumentTypeCode": "V",
+      "isOptedForESTA": false,
+      "isItineraryRulesApplied": true
+    },
+    "specialNeeds": [],
+    "guestStatuses": [],
+    "myCrews": [],
+    "folios": [
+      {
+        "modifiedByUser": "Couchbase",
+        "modificationTime": "2020-03-08T21:02:17",
+        "folioId": "197a6ac5-963f-4200-9987-3c6ec943b685",
+        "reservationGuestId": "a4312806-e52c-414e-acfd-8ee3607d39fb",
+        "accessCardNumber": "1110051471",
+        "isAtRisk": false,
+        "isGangwayAllowed": false,
+        "isDeleted": false,
+        "debitBalance": 0.0,
+        "creditBalance": 0.0
+      }
+    ],
+    "healthDetails": [
+      {
+        "modifiedByUser": "Couchbase",
+        "modificationTime": "2020-03-08T21:02:17",
+        "healthDetailId": "108e0579-af10-4622-8a81-119d370baed0",
+        "reservationGuestId": "a4312806-e52c-414e-acfd-8ee3607d39fb",
+        "healthQuestionId": "eb1cc936-d5ab-e611-80c5-00155df80332",
+        "answer": "NO",
+        "isDeleted": false
+      },
+      {
+        "modifiedByUser": "Couchbase",
+        "modificationTime": "2020-03-08T21:02:17",
+        "healthDetailId": "91281028-f0a9-4a3b-9467-b055effd6313",
+        "reservationGuestId": "a4312806-e52c-414e-acfd-8ee3607d39fb",
+        "healthQuestionId": "e91cc936-d5ab-e611-80c5-00155df80332",
+        "answer": "NO",
+        "isDeleted": false
+      },
+      {
+        "modifiedByUser": "Couchbase",
+        "modificationTime": "2020-03-08T21:02:17",
+        "healthDetailId": "548b32a1-bf7f-43d6-af1a-b7383ba96a7b",
+        "reservationGuestId": "a4312806-e52c-414e-acfd-8ee3607d39fb",
+        "healthQuestionId": "e609dba4-50d0-4626-a73d-37619c55cd23",
+        "answer": "NO",
+        "isDeleted": false
+      }
+    ],
+    "guestCelebrations": [],
+    "payForDetails": [],
+    "emergencyContact": {
+      "modifiedByUser": "Couchbase",
+      "modificationTime": "2020-03-08T21:02:17",
+      "guestEmergencyContactId": "d290e513-0102-4f2e-9c2e-c2655262c538",
+      "name": "Bhawana Saxena",
+      "relationship": "Spouse",
+      "phoneNumber": "7014524252",
+      "isDeleted": false,
+      "countryTelephoneCode": "91"
+    },
+    "payments": [
+      {
+        "modifiedByUser": "Couchbase",
+        "modificationTime": "2020-03-08T21:02:17",
+        "paymentId": "6b09e4fd-30bf-47fa-8128-d1a73d9040e8",
+        "reservationGuestId": "a4312806-e52c-414e-acfd-8ee3607d39fb",
+        "paymentModeId": "9ef030f9-e5c1-e611-80c5-00155df80332",
+        "isIndividualExpenseLimitOptIn": false,
+        "isDeleted": false
+      }
+    ],
+    "addons": [],
+    "preferences": [
+      {
+        "modifiedByUser": "Couchbase",
+        "modificationTime": "2020-03-08T21:02:17",
+        "guestPreferenceId": "ee8077eb-d48b-49e1-8eaf-55ef368bfe04",
+        "preferenceCode": "CREDIT",
+        "reservationGuestId": "a4312806-e52c-414e-acfd-8ee3607d39fb",
+        "preferenceValueCode": "GRTUIT",
+        "isDeleted": false
+      }
+    ],
+    "isWearableActivated": false,
+    "isAssociatedFlightBooking": false
+  },
+  "mrc": 3,
+  "rc": 0,
+  "ri": 1800000,
+  "encrypted": false
+}

@@ -1,0 +1,95 @@
+
+M
+java:S3740°"/Provide the parametrized type for this generic.(·»8ËÑøƒ¹.
+M
+java:S3740°"/Provide the parametrized type for this generic.(·»8ËÑøƒ¹.
+k
+java:S1192="NDefine a constant instead of duplicating this literal "Authorization" 4 times.(á…ñ’8ËÑøƒ¹.
+c	java:S107®
+"AConstructor has 8 parameters, which is greater than 7 authorized.(Şñƒışÿÿÿÿ8ËÑøƒ¹.
+g	java:S112i"FDefine and throw a dedicated exception instead of using a generic one.(ÜÊğĞûÿÿÿÿ8ËÑøƒ¹.
+c	java:S112­"FDefine and throw a dedicated exception instead of using a generic one.(ÖçÜ8ËÑøƒ¹.
+a
+java:S1155“">Use isEmpty() to check whether the collection is empty or not.(ÅÓÅªûÿÿÿÿ8ËÑøƒ¹.
+B
+java:S1700è"Rename field "accessCardNumber"(Ÿ¼Ü¸ùÿÿÿÿ8ËÑøƒ¹.
+H
+java:S1612f",Replace this lambda with a method reference.(×¥÷^8ËÑøƒ¹.
+J
+java:S1612¢",Replace this lambda with a method reference.(æ×ó«8ËÑøƒ¹.
+H
+java:S5411›"*Use the primitive boolean expression here.(êÄà’8ËÑøƒ¹.
+7
+java:S1220""Move this file to a named package.8ËÑøƒ¹.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(âÃêğ8ËÑøƒ¹.
+V	java:S106‡"9Replace this use of System.out or System.err by a logger.(¿¢Ïğ8ËÑøƒ¹.
+f
+java:S3252±"HUse static access with "com.opencsv.ICSVWriter" for "DEFAULT_SEPARATOR".(Ó„’¯8ËÑøƒ¹.
+?
+java:S2066¸"Make this inner class static(›â‚ùÿÿÿÿ8ËÑøƒ¹.
+h
+java:S1124Ó"EReorder the modifiers to comply with the Java Language Specification.(ÕÇ€ïøÿÿÿÿ8ËÑøƒ¹.
+_
+java:S1948"<Make "guestDocumentStatusReasons" transient or serializable.(™ô§‘ûÿÿÿÿ8ËÑøƒ¹.
+h
+java:S1124Ã"EReorder the modifiers to comply with the Java Language Specification.(ù·Ø˜üÿÿÿÿ8ËÑøƒ¹.
+_
+java:S1948Å"<Make "guestDocumentStatusReasons" transient or serializable.(™ô§‘ûÿÿÿÿ8ËÑøƒ¹.
+c
+java:S1124Ş"EReorder the modifiers to comply with the Java Language Specification.(Şàß±8ËÑøƒ¹.
+?
+java:S2066Ã"Make this inner class static(ƒŸ€Ûÿÿÿÿÿ8ËÑøƒ¹.
+N
+java:S1948Î"+Make "addresses" transient or serializable.(‡Üæìúÿÿÿÿ8ËÑøƒ¹.
+R
+java:S1948Ô"/Make "celeberations" transient or serializable.(‹îÔ×ûÿÿÿÿ8ËÑøƒ¹.
+U
+java:S1948û"2Make "guestPreferences" transient or serializable.(ò„ÌËøÿÿÿÿ8ËÑøƒ¹.
+L
+java:S1948™".Make "phoneNumbers" transient or serializable.(©ü„¶8ËÑøƒ¹.
+U
+java:S1948¥"2Make "reservationParty" transient or serializable.(şººõúÿÿÿÿ8ËÑøƒ¹.
+Q
+java:S1948®".Make "specialNeeds" transient or serializable.(ÓÉÌÂûÿÿÿÿ8ËÑøƒ¹.
+N
+java:S1948´"0Make "stateroomParty" transient or serializable.(ïú ®8ËÑøƒ¹.
+K
+java:S1948º"-Make "travelWiths" transient or serializable.(ï²åÅ8ËÑøƒ¹.
+€
+java:S1845"bRename field "isVip" to prevent any misunderstanding/clash with field "isVIP" defined on line 653.(Ï´À¨8ËÑøƒ¹.
+ˆ
+java:S1845›"jRename method "getIsVip" to prevent any misunderstanding/clash with method "getIsVIP" defined on line 915.(ˆ÷…İ8ËÑøƒ¹.
+
+java:S1845Ÿ"jRename method "setIsVip" to prevent any misunderstanding/clash with method "setIsVIP" defined on line 919.(ìíĞøÿÿÿÿ8ËÑøƒ¹.
+h
+java:S1124Ù"EReorder the modifiers to comply with the Java Language Specification.(¼ß­´øÿÿÿÿ8ËÑøƒ¹.
+c
+java:S1124ø"EReorder the modifiers to comply with the Java Language Specification.(Ò½Ğ¹8ËÑøƒ¹.
+h
+java:S1124¾	"EReorder the modifiers to comply with the Java Language Specification.(Œü­¾üÿÿÿÿ8ËÑøƒ¹.
+?
+java:S2066ë	"Make this inner class static(êÇÚ§ıÿÿÿÿ8ËÑøƒ¹.
+b
+java:S1124õ	"EReorder the modifiers to comply with the Java Language Specification.(ÕèÛ_8ËÑøƒ¹.
+?
+java:S2066‰
+"Make this inner class static(ÂÙÿÿÿÿÿ8ËÑøƒ¹.
+c
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(ÏÌÓ‰8ËÑøƒ¹.
+h
+java:S1124Ÿ
+"EReorder the modifiers to comply with the Java Language Specification.(‘Ñò×øÿÿÿÿ8ËÑøƒ¹.
+P
+java:S1068".Remove this unused "embarkDate" private field.(ÉÊ½ßüÿÿÿÿ8ËÑøƒ¹.
+J
+java:S1068".Remove this unused "debarkDate" private field.(å»8ËÑøƒ¹.
+I
+java:S1068"'Remove this unused "now" private field.(–ß‚Èûÿÿÿÿ8ËÑøƒ¹.
+]	java:S125'"<This block of commented-out lines of code should be removed.(‚ßĞşÿÿÿÿ8ËÑøƒ¹.
+]	java:S125)"<This block of commented-out lines of code should be removed.(ı§¢Ùúÿÿÿÿ8ËÑøƒ¹.
+X	java:S125-"<This block of commented-out lines of code should be removed.(Œ×®¨8ËÑøƒ¹.
+X	java:S1251"<This block of commented-out lines of code should be removed.(ö®˜ï8ËÑøƒ¹.
+X	java:S125O"<This block of commented-out lines of code should be removed.(Ö¿òÑ8ËÑøƒ¹.
+X	java:S125b"<This block of commented-out lines of code should be removed.(ÙßşÅ8ËÑøƒ¹.
+Y	java:S125Š"<This block of commented-out lines of code should be removed.(¤’İ»8ËÑøƒ¹.

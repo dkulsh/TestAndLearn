@@ -1,0 +1,24 @@
+
+G
+java:S16125",Replace this lambda with a method reference.(ì¢¥¸úÿÿÿÿ
+>
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(õ¾ðÕþÿÿÿÿ
+R
+java:S1854B"<Remove this useless assignment to local variable "response".(”ŠûÈ
+Q	java:S125F"<This block of commented-out lines of code should be removed.(ôò‹î
+[
+java:S1124O"EReorder the modifiers to comply with the Java Language Specification.(þ¡î½
+V	java:S125D"<This block of commented-out lines of code should be removed.(žÿÂ”ýÿÿÿÿ
+C
+java:S1481B"-Remove this unused "response" local variable.(”ŠûÈ
+g	java:S101Y"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Æð™ÿÿÿÿÿ
+k	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¢¥¸úÿÿÿÿ
+R
+java:S36555"7Call "Optional#isPresent()" before accessing the value.(ì¢¥¸úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼‡Ã¶ùÿÿÿÿ
+[
+java:S1124h"EReorder the modifiers to comply with the Java Language Specification.(ìˆˆ¼
+7
+java:S2066I"Make this inner class static(Ñ¯„íüÿÿÿÿ

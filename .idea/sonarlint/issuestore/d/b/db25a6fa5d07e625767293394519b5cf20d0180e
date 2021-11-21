@@ -1,0 +1,9 @@
+
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+]squid:S1075"ARefactor your code to get this URI from a customizable parameter.(Öè¸—ÿÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼‡Ã¶ùÿÿÿÿ
+Ssquid:S1854:"<Remove this useless assignment to local variable "response".(”ŠûÈ
+3squid:S2066>"Make this inner class static(…•›ñ
+osquid:ModifiersOrderCheckD"EReorder the modifiers to comply with the Java Language Specification.(¨òÃºþÿÿÿÿ
+Dsquid:S1481:"-Remove this unused "response" local variable.(”ŠûÈ

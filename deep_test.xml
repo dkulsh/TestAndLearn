@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vx:OTA_ResRetrieveRS
+  xmlns:vx="http://www.opentravel.org/OTA/2003/05"
+  xmlns:ns3="http://www.versonix.com/ota"
+  xmlns:ns4="http://schemas.xmlsoap.org/soap/envelope/" TimeStamp="2020-04-13T05:57:43.348" TargetName="SEAWARE@VVDEVORA" Version="1.41" CorrelationID="4132f1ad-a733-4c86-a2f8-346b96262475">
+  <vx:Success/>
+  <vx:ReservationsList>
+    <vx:CruiseReservation>
+      <vx:SailingInfo>
+        <vx:SelectedSailing VoyageID="SC200522" Start="2020-05-22" Duration="P5D" End="2020-05-27">
+          <vx:CruiseLine VendorCode="VVC" ShipCode="SC" ShipName="Scarlet Lady"/>
+          <vx:Region RegionCode="CARIBB.."/>
+          <vx:DeparturePort EmbarkationTime="2020-05-22T19:00:00" LocationCode="MIA" CodeContext="SEAWARE">Miami</vx:DeparturePort>
+          <vx:ArrivalPort DebarkationDateTime="2020-05-27T06:30:00" LocationCode="MIA" CodeContext="SEAWARE">Miami</vx:ArrivalPort>
+        </vx:SelectedSailing>
+        <vx:InclusivePackageOption CruisePackageCode="5NCM" Start="2020-05-22" End="2020-05-27"/>
+        <vx:Currency CurrencyCode="USD"/>
+        <vx:SelectedCategory WaitlistIndicator="false" PricedCategoryCode="SCP">
+          <vx:SelectedCabin GuestRefNumbers="1 2" Status="36" ShipSide="Starboard" PositionInShip="Aft" CabinCategoryStatusCode="36" CabinCategoryCode="SCP" CabinRanking="1" CabinNumber="9011Z" MaxOccupancy="2" DeckNumber="9" DeckName="DECK 9">
+            <vx:MeasurementInfo DimensionInfo="Cheeky Corner Suite - Pretty B.."/>
+            <vx:CabinAttributes>
+              <vx:CabinAttribute CabinAttributeCode="11"/>
+              <vx:CabinAttribute CabinAttributeCode="33"/>
+              <vx:CabinAttribute CabinAttributeCode="4"/>
+            </vx:CabinAttributes>
+          </vx:SelectedCabin>
+        </vx:SelectedCategory>
+        <vx:Information Name="NAME">
+          <vx:Text Formatted="false">Mayan Sol</vx:Text>
+        </vx:Information>
+        <vx:Information Name="PKGTYPECOMMENT">
+          <vx:Text Formatted="false">Mayan Sol</vx:Text>
+        </vx:Information>
+      </vx:SailingInfo>
+      <vx:ReservationInfo>
+        <vx:ReservationID StatusCode="49" BookedDate="2020-01-08T01:01:35" Type="14" ID="17865" ID_Context="SEAWARE">
+          <vx:CompanyName>OPENTRAVEL</vx:CompanyName>
+          <vx:TPA_Extensions>
+            <ns3:AgencyInfo Contact="VIRGIN VOYAGES DIRECT - USD" ContactID="5"/>
+          </vx:TPA_Extensions>
+        </vx:ReservationID>
+        <vx:GuestDetails>
+          <vx:GuestDetail>
+            <vx:SelectedFareCode FareCode="INDWAVE2020"/>
+            <vx:ContactInfo GuestRefNumber="1" Age="35" Nationality="US" PersonBirthDate="1985-03-13" LoyaltyMembershipID="23320" ContactType="REGULAR" BirthDate="1985-03-13">
+              <vx:PersonName>
+                <vx:GivenName>Vanessa</vx:GivenName>
+                <vx:Surname>Finn</vx:Surname>
+              </vx:PersonName>
+              <vx:Address Type="2">
+                <vx:AddressLine>221b Baker Street</vx:AddressLine>
+                <vx:AddressLine>221b Baker Street</vx:AddressLine>
+                <vx:CityName>Miami</vx:CityName>
+                <vx:PostalCode>33012</vx:PostalCode>
+                <vx:StateProv StateCode="FL"/>
+                <vx:CountryName Code="US">UNITED STATES</vx:CountryName>
+              </vx:Address>
+              <vx:Address Type="1">
+                <vx:AddressLine>221b Baker Street</vx:AddressLine>
+                <vx:AddressLine>wallaby way</vx:AddressLine>
+                <vx:CityName>Miami</vx:CityName>
+                <vx:PostalCode>33012</vx:PostalCode>
+                <vx:StateProv StateCode="FL"/>
+                <vx:CountryName Code="US">UNITED STATES</vx:CountryName>
+              </vx:Address>
+              <vx:Email>vanessa.finn_1166@mailinator.com</vx:Email>
+              <vx:TPA_Extensions>
+                <ns3:Household ID="123599" ID_Context="SEAWARE" Name="Finn">
+                  <ns3:PersonName>
+                    <vx:Surname>Finn</vx:Surname>
+                  </ns3:PersonName>
+                </ns3:Household>
+              </vx:TPA_Extensions>
+            </vx:ContactInfo>
+            <vx:SelectedSpecialServices>
+              <vx:SelectedSpecialService Type="VOUCHER" Code="GRATUITIES" CodeName="Gratuities" CodeDetail="CREDIT" Date="2020-01-08T01:01:37"/>
+              <vx:SelectedSpecialService Type="SAILOR LOOT" Code="SL 400 (PR)" CodeName="Sailor Loot $400 (Promotional)" CodeDetail="PROMOTIONAL" Date="2020-01-08T01:01:35"/>
+              <vx:SelectedSpecialService Type="SPECIAL REQUEST" Code="SP_AIR INTREST" CodeName="Interested in Air Program" CodeDetail="SPECIAL REQUEST" Date="2020-01-08T01:01:37"/>
+              <vx:SelectedSpecialService Code="VP" CodeName="Voyage Protection" CodeDetail="INSURANCE" Date="2020-01-08T01:01:37"/>
+            </vx:SelectedSpecialServices>
+          </vx:GuestDetail>
+          <vx:GuestDetail>
+            <vx:SelectedFareCode FareCode="INDWAVE2020"/>
+            <vx:ContactInfo GuestRefNumber="2" Age="29" Nationality="US" PersonBirthDate="1991-01-24" LoyaltyMembershipID="23321" ContactType="REGULAR" BirthDate="1991-01-24">
+              <vx:PersonName>
+                <vx:GivenName>Elizabeth</vx:GivenName>
+                <vx:Surname>Owen</vx:Surname>
+              </vx:PersonName>
+              <vx:Email>elizabeth.owen_4576@mailinator.com</vx:Email>
+              <vx:TPA_Extensions>
+                <ns3:Household ID="123600" ID_Context="SEAWARE" Name="Owen">
+                  <ns3:PersonName>
+                    <vx:Surname>Owen</vx:Surname>
+                  </ns3:PersonName>
+                </ns3:Household>
+              </vx:TPA_Extensions>
+            </vx:ContactInfo>
+            <vx:SelectedSpecialServices>
+              <vx:SelectedSpecialService Type="VOUCHER" Code="GRATUITIES" CodeName="Gratuities" CodeDetail="CREDIT" Date="2020-01-08T01:01:37"/>
+              <vx:SelectedSpecialService Type="SPECIAL REQUEST" Code="SP_AIR INTREST" CodeName="Interested in Air Program" CodeDetail="SPECIAL REQUEST" Date="2020-01-08T01:01:37"/>
+              <vx:SelectedSpecialService Code="VP" CodeName="Voyage Protection" CodeDetail="INSURANCE" Date="2020-01-08T01:01:37"/>
+            </vx:SelectedSpecialServices>
+          </vx:GuestDetail>
+        </vx:GuestDetails>
+        <vx:PaymentOptions>
+          <vx:PaymentOption ReferenceNumber="112125" PaymentType="5" PaymentTransactionTypeCode="charge">
+            <vx:PaymentAmount CurrencyCode="USD" Amount="5200"/>
+          </vx:PaymentOption>
+        </vx:PaymentOptions>
+      </vx:ReservationInfo>
+      <vx:PaymentsDue>
+        <vx:PaymentDue Amount="0" PaymentNumber="70"/>
+        <vx:PaymentDue Amount="0" PaymentNumber="71"/>
+        <vx:PaymentDue Amount="5200" PaymentNumber="80"/>
+        <vx:PaymentDue Amount="0" PaymentNumber="81"/>
+        <vx:PaymentDue Amount="0" PaymentNumber="82"/>
+        <vx:PaymentDue Amount="910" PaymentNumber="1" DueDate="2020-01-08T02:01:35"/>
+        <vx:PaymentDue Amount="4290" PaymentNumber="50" DueDate="2020-01-23T23:59:59"/>
+      </vx:PaymentsDue>
+    </vx:CruiseReservation>
+  </vx:ReservationsList>
+</vx:OTA_ResRetrieveRS>

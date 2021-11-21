@@ -1,0 +1,15 @@
+
+`
+java:S1128	"CRemove this unused import 'java.util.concurrent.CompletableFuture'.(ôŞä´8ô´“¬¹.
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(üóÌ³ıÿÿÿÿ8®±¼Š¹.
+Z
+java:S1128
+"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Ğ¬ä‡¹.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İ±©Œ8Øöîƒ¹.
+]	java:S125Q"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8®±¼Š¹.
+N
+java:S1602)",Remove useless curly braces around statement(ÔŸÖúÿÿÿÿ8Ûş®†¹.
+]	java:S125E"<This block of commented-out lines of code should be removed.(œ‡‘ˆùÿÿÿÿ8®±¼Š¹.
+X	java:S125L"<This block of commented-out lines of code should be removed.(ÖøöÂ8®±¼Š¹.
+n
+java:S2677@"LUse or store the value returned from "readLine" instead of throwing it away.(£­—âÿÿÿÿÿ8®±¼Š¹.

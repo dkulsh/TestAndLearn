@@ -1,0 +1,20 @@
+
+q
+java:S2095G"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(óÊšëıÿÿÿÿ8à•—úÁ.
+i
+java:S2095)"GUse try-with-resources or close this "Statement" in a "finally" clause.(õşœÎşÿÿÿÿ8ÿÌøÁ.
+i
+java:S2095)"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(õşœÎşÿÿÿÿ8àùÁ.
+f
+java:S1128"IRemove this unused import 'org.apache.commons.collections.map.HashedMap'.(Œ¾’ş8¥ÜÁ.
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(æ¿Çıÿÿÿÿ8ñ˜¸Á.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İ±©Œ
+c
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(¿¾êp8ÈÛÁ.
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(çõŠ¥8¶Õ™Á.
+T
+java:S1481E"2Remove this unused "dateFormatter" local variable.(×É±Æúÿÿÿÿ8ÔÄ’ÿÁ.
+c
+java:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¿¾êp8ÈÛÁ.
+c
+java:S1854E"ARemove this useless assignment to local variable "dateFormatter".(×É±Æúÿÿÿÿ8ÔÄ’ÿÁ.
